@@ -1,0 +1,5 @@
+name: 'Tribus Module'
+type: module
+description: 'Tribus Coding Challenge'
+package: Custom
+core_version_requirement: ^10

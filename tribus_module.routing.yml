@@ -1,0 +1,9 @@
+tribus_module.display:
+  path: '/tribus/display/{num1}/{num2}'
+  defaults:
+    _controller: '\Drupal\tribus_module\Controller\TribusController::display'
+    _title: 'Tribus Code Challenge'
+  requirements:
+    _permission: 'access content'
+    num1: \d+(\.\d+)?
+    num2: \d+(\.\d+)?

@@ -1,0 +1,7 @@
+services: 
+  tribus_module.adder:
+    class: Drupal\tribus_module\Service\Adder
+  
+  tribus_module.string_formatter:
+    class: Drupal\tribus_module\Service\StringFormatter
+    arguments: ['@tribus_module.adder']
