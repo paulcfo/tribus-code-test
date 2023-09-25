@@ -22,7 +22,7 @@ The Tribus Module was created as part of a coding challenge. It has 2 services, 
 
 4. **Error Handling**: Added some input validation and error handling to ensure that only numbers are computed by the `Adder` service.
 
-5. **Testing**: Visit the custom path `/tribus/display` to view the correctly formatted output.
+5. **Testing**: Visit the custom path `/tribus/display/{num1}/{num2}` to view the correctly formatted output.
 
 
 ## REQUIREMENTS
