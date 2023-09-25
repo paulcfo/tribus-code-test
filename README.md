@@ -12,7 +12,7 @@ The Tribus Module was created as part of a coding challenge. It has 2 services, 
 6. VSCode
 7. Internet Resources: Drupal Docs, Github Co-pilot. 
 
-## Solution Approach
+## SOLUTION
 
 1. **Service Definition**: Created 2 services, `Adder` and `StringFormatter`. Defined these services in the `tribus_module.services.yml` file to make them available for use in the module.
 
