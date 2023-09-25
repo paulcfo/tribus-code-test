@@ -33,7 +33,7 @@ There are no external dependencies for this module.
 
 ## INSTALLATION
 
-1. Download and Enable the Module
+1. Download and Enable this Module -> `tribus_module`
 2. Verify the installation by visiting the custom path `/tribus/display`
 Install as you would normally install a contributed Drupal module.
 See: https://www.drupal.org/node/895232 for further information.
